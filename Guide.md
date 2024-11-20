@@ -60,7 +60,7 @@ You just finished the first half.
 * Open BD3D2MK3D. 
 * Say okay to any warnings that may come up, and you should see something like this. 
 
-[Image 4]
+![screenshot](Image_4.png)
 
 * From here click on “Switch to 3D MKV” mode on the top right. It should then look like this. 
 
