@@ -22,7 +22,7 @@
 * Insert your Bluray into into your drive and run MakeMKV. 
 * The program should recognize the Bluray and should look like this. 
 
-[Image 1]
+![screenshot of ls list output](ls_l-flag.png)
 
 * Click on the big Bluray disk icon. 
 
