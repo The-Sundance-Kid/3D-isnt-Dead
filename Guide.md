@@ -64,7 +64,7 @@ You just finished the first half.
 
 * From here click on “Switch to 3D MKV” mode on the top right. It should then look like this. 
 
-[Image 5]
+![screenshot](Image_5.png)
 
 * Now click on the “Open 3D MKV created by MakeMKV” on the left. 
 * Then navigate to where you created the MKV file with MakeMKV. 
