@@ -48,7 +48,7 @@
 * Once the ripping is done it should look somewhat like this. 
 * It could take a while depending on how big the file is. 
 
-[Image 3]
+![screenshot](Image_3.png)
 
 (I chose a smaller file just to expedite the process of making this tutorial)
 
