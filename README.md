@@ -1,4 +1,4 @@
 
 # HOME PAGE
 ## 3D isn't Dead
-### smaller heading
+### Maybe add Why Digitize 3D Blurays paragraph
