@@ -32,7 +32,7 @@
 * Once you have clicked on the icon the software will start detecting what is on the disk. 
 * Once it is finished detecting what is on the disk it should look somewhat like this. 
 
-[Image 2]
+![screenshot of ls list output](Image_2.png)
 
 * It is very important to remember that 3D Blurays are encoded as AVC/MVC so that is the file type we are looking for. 
 * Having reached this point there are a few options. Since there can be many videos on the Bluray you need to figure out which file you want. 
