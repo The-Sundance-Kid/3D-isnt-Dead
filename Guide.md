@@ -15,7 +15,7 @@
 ## Step 1:
 
 * [Download MakeMKV](https://www.makemkv.com/download/Setup_MakeMKV_v1.17.8.exe)
-* [Download BD3D2MK3D](https://www.videohelp.com/download/BD3D2MK3D.7z) 
+* [Download BD3D2MK3D](https://www.videohelp.com/download/BD3D2MK3D.7z?r=CmFGdbFKDb) 
 
 ## Step 2:
 
