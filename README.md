@@ -1,4 +1,4 @@
 
 # HOME PAGE
-## 3D-isnt-Dead-Test
+## 3D isn't Dead
 ### smaller heading
