@@ -1,1 +1,1 @@
-
+Charles Simons current student at NYU's Moving Image Archiving and Preservation master's program. He is an advocate for alternative film consumption. Whether that be 3D, 4D, or VR he enjoyes different ways in watching films.
