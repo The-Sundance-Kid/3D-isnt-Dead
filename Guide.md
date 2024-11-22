@@ -11,7 +11,11 @@
 
 * Since I do not want any trouble, elements of the tutorial will be blacked out so I do not face any legal trouble. 
 * This is for archival or personal use only. Any trouble with the law is not my fault and your decisions are of yours alone. 
-* Proceed at your own risk. 
+* Proceed at your own risk.
+
+## Requirements:
+* Microsoft Windows
+* A Bluray drive
 
 ## Step 1:
 
