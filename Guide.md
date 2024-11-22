@@ -1,6 +1,6 @@
 # 3D Bluray Tutorial
 
-[Step 1](https://github.com/The-Sundance-Kid/3D-isnt-Dead-Test/blob/main/Guide.md#step-1) [Step 2](https://github.com/The-Sundance-Kid/3D-isnt-Dead-Test/blob/main/Guide.md#step-2)
+[Step 1](https://github.com/The-Sundance-Kid/3D-isnt-Dead-Test/blob/main/Guide.md#step-1)  [Step 2](https://github.com/The-Sundance-Kid/3D-isnt-Dead-Test/blob/main/Guide.md#step-2)
 
 ## Prerequisites:
 
