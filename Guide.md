@@ -5,12 +5,12 @@
 * A Bluray player attached to a Windows PC. The Bluray player may need to be patched.
 * Please research if your Bluray player is ripping compatible. Elements of this tutorial may not work if your Bluray player is not patched. 
 * Helpful tutorials can be found online.
-* The red arrows on the screenshots are not part of the software, but added on top for extra direction.
 
 ## Preliminaries:
 
 * Since I do not want any trouble, elements of the tutorial will be blacked out so I do not face any legal trouble. 
-* This is for archival or personal use only. Any trouble with the law is not my fault and your decisions are of yours alone. 
+* This is for archival or personal use only. Any trouble with the law is not my fault and your decisions are of yours alone.
+* The red arrows on the screenshots are not part of the software, but added on top for extra direction.
 * Proceed at your own risk.
 
 ## Requirements:
