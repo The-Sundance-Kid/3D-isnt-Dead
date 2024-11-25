@@ -1,4 +1,4 @@
-# 3D Bluray Tutorial
+# 3D Bluray Guide
 
 Table of Context
 
