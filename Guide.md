@@ -21,6 +21,9 @@ Table of Context
 * Microsoft Windows
 * A Bluray drive
 
+## For archivists:
+* Each step will have a subset labelled "a" for archivists. These subsets will have addition information for archivists to possibly use.
+
 ## Step 1:
 
 * [Download MakeMKV](https://www.makemkv.com/download/Setup_MakeMKV_v1.17.8.exe)
