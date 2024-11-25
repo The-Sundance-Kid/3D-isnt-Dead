@@ -31,7 +31,7 @@ Table of Context
 * Insert your Bluray into into your drive and run MakeMKV. 
 * The program should recognize the Bluray and should look like this. 
 
-![screenshot](Image_1.png)>
+![screenshot](Image_1.png)
 
 * Click on the big Bluray disk icon. 
 
