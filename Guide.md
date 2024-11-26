@@ -56,8 +56,7 @@ Table of Context
 
 ## Step 4:
 
-* Once the ripping is done it should look somewhat like this. 
-* It could take a while depending on how big the file is. 
+* Once the ripping is done it should look somewhat like this. It could take a while depending on how big the file is. 
 
 ![screenshot](Image_3.png)
 
