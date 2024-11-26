@@ -81,7 +81,7 @@ You just finished the first half.
 * Then navigate to where you created the MKV file with MakeMKV. 
 * Once the file has been loaded in it should look something like this. 
 
-[Image 6]
+![screenshot](Image_6.png)
 
 * There are a lot more options here than in MakeMKV. 
 (make a sub step/page of tag manage/example)
