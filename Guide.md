@@ -93,7 +93,7 @@ You just finished the first half.
 * For an archive I would recommend filling in as many of the tags as possible. 
 * The most crucial tab is tab 5. 
 
-[Image 7]
+![screenshot](Image_7.png)
 
 * Seen here is tab 5. I uncheck stereoscopy to get full side-by-side renders, but a warning will come up explaining why you may not want to use this option. 
 * Then under “X265 (h265 HEVC) encoder options”, click on the drop down menu and select “2-pass”. 
@@ -110,7 +110,7 @@ You just finished the first half.
 * Find that file and double click it. A CMD window will pop up looking like this. 
 * Just let it do its thing. It could take a while. 
 
-[Image 8]
+![screenshot](Image_8.png)
 
 [Image 9]
 
