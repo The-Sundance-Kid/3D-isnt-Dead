@@ -112,14 +112,14 @@ You just finished the first half.
 
 ![screenshot](Image_8.png)
 
-[Image 9]
+![screenshot](Image_9.png)
 
 * Since it is working for both eyes it will take double the amount of time. 
 * Once done the CMD should look something like this. In the same folder you should be able to find your new converted SBS 3D video. 
 * All the other files can be deleted. (maybe keep the files because xyz)
 
-[Image 10]
+![screenshot](Image_10.png)
 
-[Image 11]
+![screenshot](Image_11.png)
 
 Go back to the [Homepage](index.md)
