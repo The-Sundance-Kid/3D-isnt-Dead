@@ -123,8 +123,15 @@ Congrats! You just finished the first half.
 ![screenshot](Image_10.png)
 
 * In the same folder you should be able to find your new converted SBS 3D video. 
-* All the other files can be deleted.
+* All the other files can be deleted if you wish.
 
 ![screenshot](Image_11.png)
+
+## Step 7a:
+* The extra files can be useful for archival purposes
+
+  IMAGE
+
+* Here we can see all sorts of informative files. BD3D2MK3D.txt is a log of what transpired during the encoding process. There are also files displaying the tags and the metadata of the video file you have just made. Keeping these in a subfolder could benefit long term preservation and understand of the video file.
 
 Go back to the [Homepage](index.md)
