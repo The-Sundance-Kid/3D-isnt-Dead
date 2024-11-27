@@ -22,7 +22,7 @@ Table of Context
 * A Bluray drive
 
 ## For archivists:
-* Each step will have a subset labelled "a" for archivists. These subsets will have addition information for archivists to possibly use.
+* Some steps will have a subset labelled "a" for archivists. These subsets will have addition information for archivists to possibly use.
 
 ## Step 1:
 
