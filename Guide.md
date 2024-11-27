@@ -33,10 +33,9 @@ Table of Context
 
 * Insert your Bluray into into your drive and run MakeMKV. 
 * The program should recognize the Bluray and should look like this. 
+* Click on the big Bluray disk icon.
 
 ![screenshot](Image_1.png)
-
-* Click on the big Bluray disk icon.
 
 ## Step 2a:
 * For an achivist I would recommend opening a text editor where you can copy the text that will come up at the bottom of the MakeMKV program.
@@ -65,8 +64,7 @@ Table of Context
 
 (I chose a smaller file just to expedite the process of making this tutorial)
 
-Congrats!
-You just finished the first half. 
+Congrats! You just finished the first half. 
 
 ## Step 5:
 
@@ -86,7 +84,6 @@ You just finished the first half.
 ![screenshot](Image_6.png)
 
 * There are a lot more options here than in MakeMKV. 
-(make a sub step/page of tag manage/example)
 
 ## Step 6:
 
@@ -111,19 +108,22 @@ You just finished the first half.
 
 * Once you have clicked “Do it!” several things will happen. Just let it do its thing. 
 * Normally it should do it all but occasionally you could be prompted with something like this. 
-* Hit okay and navigate to where your file destination is. In that directory there will be a bunch of files.
-* Find that file and double click it. A CMD window will pop up looking like this. 
-* Just let it do its thing. It could take a while. 
 
 ![screenshot](Image_8.png)
+
+* Hit okay and navigate to where your file destination is. In that directory there will be a bunch of files.
+* Find that "_ENCODE_3D_LAUNCHER.cmd" and double click it. A CMD window will pop up looking like this. 
+* Just let it do its thing. It could take a while. 
 
 ![screenshot](Image_9.png)
 
 * Since it is working for both eyes it will take double the amount of time. 
-* Once done the CMD should look something like this. In the same folder you should be able to find your new converted SBS 3D video. 
-* All the other files can be deleted. (maybe keep the files because xyz)
+* Once done the CMD should look something like this.
 
 ![screenshot](Image_10.png)
+
+* In the same folder you should be able to find your new converted SBS 3D video. 
+* All the other files can be deleted.
 
 ![screenshot](Image_11.png)
 
