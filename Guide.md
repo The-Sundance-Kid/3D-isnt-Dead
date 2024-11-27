@@ -101,6 +101,9 @@ You just finished the first half.
 * Also you should match the “Colour depth” to whatever the colour depth is of the file if you can find that out. 
 * Finally, set your file destination, and click “Do it!”. 
 
+## Step 6a:
+* To make sure the toggles match the video file you have just ripped, a software like MediaInfo will let you know the bitrate of the video and any other information you might like to know. For an archivist you want as much of the data to be the same.
+
 ## Step 7:
 
 * Once you have clicked “Do it!” several things will happen. Just let it do its thing. 
