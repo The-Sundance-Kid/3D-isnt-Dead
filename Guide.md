@@ -36,7 +36,10 @@ Table of Context
 
 ![screenshot](Image_1.png)
 
-* Click on the big Bluray disk icon. 
+* Click on the big Bluray disk icon.
+
+## Step 2a:
+* For an achivist I would recommend opening a text editor where you can copy the text that will come up at the bottom of the MakeMKV program.
 
 ## Step 3:
 
