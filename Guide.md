@@ -24,7 +24,7 @@ Table of Context
 ## For archivists:
 * Some steps will have a subset labelled "a" for archivists. These subsets will have addition information for archivists to possibly use.
 
-## Step 1:
+## Required Downloads:
 
 * Download - [MakeMKV](https://www.makemkv.com/download/Setup_MakeMKV_v1.17.8.exe)
 * Download - [BD3D2MK3D](https://www.videohelp.com/download/BD3D2MK3D.7z?r=CmFGdbFKDb) 
