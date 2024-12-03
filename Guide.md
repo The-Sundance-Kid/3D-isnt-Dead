@@ -1,8 +1,7 @@
 # 3D Bluray Guide
 
 Table of Context
-
-[Step 1](https://github.com/The-Sundance-Kid/3D-isnt-Dead-Test/blob/main/Guide.md#step-1)  [Step 2](https://github.com/The-Sundance-Kid/3D-isnt-Dead-Test/blob/main/Guide.md#step-2) [Step 3](https://github.com/The-Sundance-Kid/3D-isnt-Dead-Test/blob/main/Guide.md#step-3) [Step 2](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#step-2) 
+[Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#step-1) [Step 2](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#step-2)
 
 ## Prerequisites:
 
@@ -26,8 +25,8 @@ Table of Context
 
 ## Step 1:
 
-* [Download MakeMKV](https://www.makemkv.com/download/Setup_MakeMKV_v1.17.8.exe)
-* [Download BD3D2MK3D](https://www.videohelp.com/download/BD3D2MK3D.7z?r=CmFGdbFKDb) 
+* Download - [MakeMKV](https://www.makemkv.com/download/Setup_MakeMKV_v1.17.8.exe)
+* Download - [BD3D2MK3D](https://www.videohelp.com/download/BD3D2MK3D.7z?r=CmFGdbFKDb) 
 
 ## Step 2:
 
