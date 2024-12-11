@@ -27,7 +27,8 @@ Table of Context
 ## Required Downloads:
 
 * Download - [MakeMKV](https://www.makemkv.com/download/Setup_MakeMKV_v1.17.8.exe)
-* Download - [BD3D2MK3D](https://www.videohelp.com/download/BD3D2MK3D.7z?r=CmFGdbFKDb) 
+* Download - [BD3D2MK3D](https://www.videohelp.com/download/BD3D2MK3D.7z?r=CmFGdbFKDb)
+* Download - [AviSynth](https://github.com/AviSynth/AviSynthPlus/releases/download/v3.7.3/AviSynthPlus_3.7.3_20230715.exe)
 
 ## Step 2:
 
