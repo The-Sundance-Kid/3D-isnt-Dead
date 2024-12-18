@@ -2,7 +2,7 @@
 
 Table of Context
 
-[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads) - [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-setup)
+[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads) - [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-setup) - [Bluray Ripping Process](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-process)
 
 ## Prerequisites:
 
@@ -38,10 +38,10 @@ Table of Context
 
 ![screenshot](Image_1.png)
 
-## Step 2a:
+## Bluray Ripping Setup (A):
 * For an achivist I would recommend opening a text editor where you can copy the text that will come up at the bottom of the MakeMKV program.
 
-## Step 3:
+## Bluray Ripping Process:
 
 * Once you have clicked on the icon the software will start detecting what is on the disk. 
 * Once it is finished detecting what is on the disk it should look somewhat like this. 
