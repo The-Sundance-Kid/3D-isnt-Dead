@@ -2,7 +2,7 @@
 
 Table of Context
 
-[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads)  [Step 2](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#step-2)
+[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads) [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-setup)
 
 ## Prerequisites:
 
@@ -26,11 +26,11 @@ Table of Context
 
 ## Required Downloads:
 
+* Download - [AviSynth](https://github.com/AviSynth/AviSynthPlus/releases/download/v3.7.3/AviSynthPlus_3.7.3_20230715.exe)
 * Download - [MakeMKV](https://www.makemkv.com/download/Setup_MakeMKV_v1.17.8.exe)
 * Download - [BD3D2MK3D](https://www.videohelp.com/download/BD3D2MK3D.7z?r=CmFGdbFKDb)
-* Download - [AviSynth](https://github.com/AviSynth/AviSynthPlus/releases/download/v3.7.3/AviSynthPlus_3.7.3_20230715.exe)
 
-## Step 2:
+## Bluray Ripping Setup:
 
 * Insert your Bluray into into your drive and run MakeMKV. 
 * The program should recognize the Bluray and should look like this. 
