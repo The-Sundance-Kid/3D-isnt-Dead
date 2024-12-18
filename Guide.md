@@ -123,7 +123,7 @@ Congrats! You just finished the first half.
 * A CMD window will pop up looking like this.
 
 ![screenshot](Image_9.png)
-(Again for sake of speed I chose a fast preset. Depending on what settings you choose it could look different. Take this screenshot as an example of what it can be.)
+(Again for sake of speed I chose a fast preset. Depending on what settings you choose it could look different. Take this screenshot and the next as an example of what it can be like.)
 
 * Just let it do its thing. It could take a while. 
 * Since it is working for both eyes it will take double the amount of time. 
