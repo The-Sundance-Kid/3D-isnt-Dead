@@ -133,7 +133,7 @@ Congrats! You just finished the first half.
 ![screenshot](Image_11.png)
 
 ## The Conversion Process (A):
-* The extra files can be useful for archival purposes
+* The extra files can be useful for archival purposes.
 
   IMAGE
 
