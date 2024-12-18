@@ -4,4 +4,5 @@ Welcome to 3D isn't Dead! Here you can find a guide on how to preserve and view 
 
 * [Guide](Guide.md)
 * [Why Rip 3D Blurays?](Why_Rip_3D_Blurays.md)
+* [Future Plans]
 * [About](About_Me.md)
