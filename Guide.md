@@ -2,7 +2,7 @@
 
 Table of Context
 
-[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads) - [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-setup) - [Bluray Ripping Process](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-process)
+[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads) - [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-setup) - [Bluray Ripping Process](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-process) - [Completing The Rip](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#complete-the-rip) - [File Conversion Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#file-conversion-setup) - [Adding Additional Info To The Conversion](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#adding-additional-info-to-the-conversion) - [The Conversion Process](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#the-conversion-process)
 
 ## Prerequisites:
 
@@ -22,7 +22,7 @@ Table of Context
 * A Bluray drive
 
 ## For archivists:
-* Some steps will have a subset labelled "a" for archivists. These subsets will have addition information for archivists to possibly use.
+* Some steps will have a subset labelled (A) for Archivists. These subsets will have addition information for archivists to possibly use.
 
 ## Required Downloads:
 
@@ -57,7 +57,7 @@ Table of Context
 * On the right you can change the file name and file location. 
 * Once you have picked what you want, click the Make MKV icon on the top right. 
 
-## Step 4:
+## Completing The Rip:
 
 * Once the ripping is done it should look somewhat like this. It could take a while depending on how big the file is. 
 
@@ -67,7 +67,7 @@ Table of Context
 
 Congrats! You just finished the first half. 
 
-## Step 5:
+## File Conversion Setup:
 
 * Open BD3D2MK3D. 
 * Say okay to any warnings that may come up, and you should see something like this. 
@@ -86,7 +86,7 @@ Congrats! You just finished the first half.
 
 * There are a lot more options here than in MakeMKV. 
 
-## Step 6:
+## Adding Additional Info To The Conversion:
 
 * Go through the tabs at the top of the program. 
 * In tab 3 it is mandatory that you create a file name. 
@@ -102,10 +102,10 @@ Congrats! You just finished the first half.
 * Also you should match the “Colour depth” to whatever the colour depth is of the file if you can find that out. 
 * Finally, set your file destination, and click “Do it!”. 
 
-## Step 6a:
+## Adding Additional Info To The Conversion (A):
 * To make sure the toggles match the video file you have just ripped, a software like MediaInfo will let you know the bitrate of the video and any other information you might like to know. For an archivist you want as much of the data to be the same.
 
-## Step 7:
+## The Conversion Process:
 
 * Once you have clicked “Do it!” several things will happen. Just let it do its thing. 
 * Normally it should do it all but occasionally you could be prompted with something like this. 
@@ -128,11 +128,12 @@ Congrats! You just finished the first half.
 
 ![screenshot](Image_11.png)
 
-## Step 7a:
+## The Conversion Process (A):
 * The extra files can be useful for archival purposes
 
   IMAGE
 
 * Here we can see all sorts of informative files. BD3D2MK3D.txt is a log of what transpired during the encoding process. There are also files displaying the tags and the metadata of the video file you have just made. Keeping these in a subfolder could benefit long term preservation and understand of the video file.
+
 
 Go back to the [Homepage](index.md)
