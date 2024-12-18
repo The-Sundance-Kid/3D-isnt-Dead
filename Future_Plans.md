@@ -6,3 +6,7 @@ I see this as an on going project. A few plans that I have are:
 * Figure out the best time efficent to quality ratio for people who need their rips in a hurry.
 * Create a guide on how to view your newly ripped 3D movie.
 * Create a guide on how to preserve the actual, physical 3D Bluray.
+
+
+Go back to the [Homepage](index.md)
+
