@@ -116,10 +116,18 @@ Congrats! You just finished the first half.
 ![screenshot](Image_8.png)
 
 * Hit okay and navigate to where your file destination is. In that directory there will be a bunch of files.
-* Find that "_ENCODE_3D_LAUNCHER.cmd" and double click it. A CMD window will pop up looking like this. 
+* Find that "_ENCODE_3D_LAUNCHER.cmd" and double click it.
+
+![screenshot](Image_X.png)
+
+* A CMD window will pop up looking like this.
+
+![screenshot](Image_Y.png)
+
 * Just let it do its thing. It could take a while. 
 
 ![screenshot](Image_9.png)
+(Again for sake of speed I chose a fast preset. Depending on what settings you choose it could look different. Take this screenshot as an example of what it can be.)
 
 * Since it is working for both eyes it will take double the amount of time. 
 * Once done the CMD should look something like this.
