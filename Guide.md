@@ -141,9 +141,6 @@ Congrats! You just finished the first half.
 
 ## The Conversion Process (A):
 * The extra files can be useful for archival purposes.
-
-  IMAGE
-
 * Here we can see all sorts of informative files. BD3D2MK3D.txt is a log of what transpired during the encoding process. There are also files displaying the tags and the metadata of the video file you have just made. Keeping these in a subfolder could benefit long term preservation and understand of the video file.
 
 
