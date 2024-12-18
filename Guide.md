@@ -115,7 +115,7 @@ Congrats! You just finished the first half.
 
 ![screenshot](Image_8.png)
 
-* Click on okay and navigate to where your file destination is if need by. (Normally by clicking okay the file window should pop-up.) In that directory there will be a bunch of files.
+* Click on OK and navigate to where your file destination is if need by. (Normally by clicking OK the file window should pop-up.) In that directory there will be a bunch of files.
 * Find that "_ENCODE_3D_LAUNCHER.cmd" and double click it.
 
 ![screenshot](Image_X.png)
