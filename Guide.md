@@ -2,7 +2,7 @@
 
 Table of Context
 
-[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads) * [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-setup)
+[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads) - [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-setup)
 
 ## Prerequisites:
 
