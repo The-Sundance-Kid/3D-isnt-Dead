@@ -131,7 +131,7 @@ Congrats! You just finished the first half.
 
 ![screenshot](Image_10.png)
 
-* In the same folder you should be able to find your new converted SBS 3D video. 
+* In the same folder you should be able to find your new converted SBS 3D video. (Unless you dictated in BD3D2MK3D that you wanted the video file be placed somewhere else.)
 * All the other files can be deleted if you wish.
 
 ![screenshot](Image_11.png)
