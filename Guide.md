@@ -4,6 +4,9 @@ Table of Context
 
 [Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#required-downloads) - [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#bluray-ripping-setup) - [Bluray Ripping Process](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#bluray-ripping-process) - [Completing The Rip](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#complete-the-rip) - [File Conversion Setup](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#file-conversion-setup) - [Adding Additional Info To The Conversion](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#adding-additional-info-to-the-conversion) - [The Conversion Process](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#the-conversion-process)
 
+## What Is Going To Happen?
+ What will happen through this tutorial is that you will be able to rip a 3D Bluray into a digital video file on your computer. Then convert that file into a 3D video file that can be played on modern 3D viewing hardware.
+
 ## Prerequisites:
 
 * A Bluray player attached to a Windows PC. The Bluray player may need to be patched.
@@ -12,7 +15,7 @@ Table of Context
 
 ## Preliminaries:
 
-* Since I do not want any trouble, elements of the tutorial will be blacked out so I do not face any legal trouble. 
+* Since I do not want any trouble, elements of the tutorial will be blacked out so I do not face any possible legal trouble. 
 * This is for archival or personal use only. Any trouble with the law is not my fault and your decisions are of yours alone.
 * The red arrows on the screenshots are not part of the software, but added on top for extra direction.
 * Proceed at your own risk.
@@ -20,6 +23,7 @@ Table of Context
 ## Requirements:
 * Microsoft Windows
 * A Bluray drive
+* A 3D Bluray
 
 ## For archivists:
 * Some steps will have a subset labelled (A) for Archivists. These subsets will have addition information for archivists to possibly use.
