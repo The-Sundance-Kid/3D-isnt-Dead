@@ -99,7 +99,7 @@ Congrats! You just finished the first half.
 ![screenshot](Image_7.png)
 
 * Seen here is tab 5. I uncheck stereoscopy to get full side-by-side renders, but a warning will come up explaining why you may not want to use this option. 
-* Then under “X265 (h265 HEVC) encoder options”, click on the drop down menu and select “2-pass”. 
+* Then under “X265 (h265 HEVC) encoder options”, (could be h264 if you have not changed it in the settings. As an archivist you want to chose the same encoder that was used on the Bluray) click on the drop down menu and select “2-pass”. 
 * Under that is the presets. The slower the preset the higher quality the outcome will be. 
 * However, some of the slower presets can take days. It is up to you as an archivist to determine what works best for your archive. 
 * Also you should match the “Colour depth” to whatever the colour depth is of the file if you can find that out. 
