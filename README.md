@@ -1,4 +1,4 @@
 
 # HOMEPAGE
 ## 3D isn't Dead
-### The last manufactured 3D TVs came out in 2016 by Sony and LG. Nobody today is manufacturing 3D TVs for shared viewing experiences. Without paying thousands of dollars for a used 3D TV, there is no way today to view a 3D Bluray in 3D by just playing the disk as you normally would.
+### Welcome to 3D isn’t Dead! Here you can find a guide on how to preserve and view 3D Blurays in a post 3D TV world. Also here I have wrote on why we should preserve 3D Blurays this way, and a bit about me. Enjoy entering the third dimension!
