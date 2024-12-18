@@ -1,8 +1,8 @@
-# 3D Bluray Guide
+ # 3D Bluray Guide
 
 Table of Context
 
-[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#required-downloads) - [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-setup) - [Bluray Ripping Process](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#bluray-ripping-process) - [Completing The Rip](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#complete-the-rip) - [File Conversion Setup](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#file-conversion-setup) - [Adding Additional Info To The Conversion](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#adding-additional-info-to-the-conversion) - [The Conversion Process](https://the-sundance-kid.github.io/3D-isnt-Dead-Test/Guide.html#the-conversion-process)
+[Required Downloads](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#required-downloads) - [Bluray Ripping Setup](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#bluray-ripping-setup) - [Bluray Ripping Process](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#bluray-ripping-process) - [Completing The Rip](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#complete-the-rip) - [File Conversion Setup](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#file-conversion-setup) - [Adding Additional Info To The Conversion](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#adding-additional-info-to-the-conversion) - [The Conversion Process](https://the-sundance-kid.github.io/3D-isnt-Dead/Guide.html#the-conversion-process)
 
 ## Prerequisites:
 
