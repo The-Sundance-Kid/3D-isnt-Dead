@@ -7,6 +7,7 @@ I see this as an on going project. A few plans that I have are:
 * Create a guide on how to view your newly ripped 3D movie.
 * Create a guide on how to preserve the actual, physical 3D Bluray.
 * Beautify the website.
+* Create a video tutorial.
 
 
 Go back to the [Homepage](index.md)
